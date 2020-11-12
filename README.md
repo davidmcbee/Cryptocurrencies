@@ -4,6 +4,7 @@ The purpose of this analysis is to support our investment banking client who is 
 
 ## Data and Environment
 The data used for this analysis consists of 1253 Rows, including the header row, with the following 7 column:
+
     * index based on coin name
     * CoinName
     * Algorithm
