@@ -10,7 +10,7 @@ The data used for this analysis consists of 1253 Rows, including the header row,
     * ProofType
     * TotalCoinsMined
     * TotalCoinSupply
-The data set is available for viewing here (Resources/crypto_data.csv )
+The data set is available for viewing here (https://github.com/davidmcbee/Cryptocurrencies/blob/main/Resources/crypto_data.csv)
 
 The environment used:
 Jupyter Notebook
