@@ -7,6 +7,7 @@ The data used for this analysis consists of 1253 Rows, including the header row,
     * index based on coin name
     * CoinName
     * Algorithm
+    * IsTrading
     * ProofType
     * TotalCoinsMined
     * TotalCoinSupply
